@@ -12,9 +12,6 @@ To make these insights actionable, we’ve built an interactive dashboard that v
 
 <img src="./green_spaces/viz/assets/ProjectDemo.gif" alt="Demo" width="98%" />
 
-[▶️ Click here to watch the whole project video](https://www.youtube.com/watch?v=jTMRUfCFJLQ)
-
-
 ## Instructions for Running the Project
 
 To execute this project, please follow these steps: 
